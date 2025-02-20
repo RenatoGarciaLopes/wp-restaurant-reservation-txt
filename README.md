@@ -13,7 +13,7 @@
 ## 📦 Instalação  
 1. Clone o repositório ou baixe o código-fonte:  
    ```bash
-   git clone https://github.com/seu-usuario/wp-restaurant-reservation-txt.git
+   git clone https://github.com/RenatoGarciaLopes/wp-restaurant-reservation-txt.git
    ```  
 2. Faça o upload da pasta para `wp-content/plugins/` no seu site WordPress.  
 3. Ative o plugin no painel do WordPress.  
